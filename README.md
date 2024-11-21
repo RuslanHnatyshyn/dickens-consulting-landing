@@ -19,7 +19,7 @@
 - **Contact Forms**: Lead magnet form for scheduling calls, and an FAQ form for user inquiries.
 
 ## Demo
-Check out the project live:  [Dickens Consulting Group](https://ruslanhnatyshyn.github.io/dickens-consulting-landing/)
+Check out the project live:  [Dickens Consulting Group](https://dickens-consulting-landing.vercel.app/)
 
 ## Design
 Project design is available on Figma:  [Dickens Consulting Group Landing](https://www.figma.com/design/Z30BC9EFEf5t6NmBbgplx0/PROJECT---Dickens-Academy-(Copy)?node-id=0-1&node-type=canvas&t=9oSNrb2MP02V1MsZ-0)
